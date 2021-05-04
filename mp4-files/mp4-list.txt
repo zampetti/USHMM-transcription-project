@@ -1,0 +1,6 @@
+list of mp4 files used, too big for github
+* running wav_file_convert.py will convert mp3 files in the mp3-files directory
+
+RG-50.030.0016.01.03.mp4
+RG-50.030.0016.02.03.mp4
+RG-50.030.0016.03.03.mp4
